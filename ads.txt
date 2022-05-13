@@ -1,0 +1,4 @@
+    image2 > img
+    width: 35rem;
+    margin-right: 11rem;
+    
